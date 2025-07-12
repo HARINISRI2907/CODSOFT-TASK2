@@ -52,20 +52,13 @@ javac StudentsGradeCalculate.java
 
 # Run the program
 java StudentsGradeCalculate
-
 > Replace StudentsGradeCalculate.java with your exact file name if it's different.
 
-
 📂 Project Structure
-
 StudentsGradeCalculate.java – Java source code.
-
 StudentsGradeScreenshot.png – Screenshot of the program (if you have one).
 
-
-
 🔮 Future Improvements
-
 🚀 Add support for multiple students at once
 🚀 Export results to a text or CSV file
 🚀 Create a GUI version using Java Swing or JavaFX
@@ -73,16 +66,11 @@ StudentsGradeScreenshot.png – Screenshot of the program (if you have one).
 
 
 🛠 Technologies Used
-
 Java (console application)
-
 Scanner (for user input)
 
-
 ✏ Author
-
 HARINISRI2907
 
 📄 License
-
 This project is created for educational purposes.
